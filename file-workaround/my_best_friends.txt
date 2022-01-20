@@ -1,0 +1,3 @@
+name: beran
+age: 25
+rating: 9999
