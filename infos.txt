@@ -1,0 +1,2 @@
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+A language that doesn’t affect the way you think about programming is not worth knowing. - Alan J. Perlis
